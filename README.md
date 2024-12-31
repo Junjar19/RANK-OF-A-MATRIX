@@ -18,7 +18,7 @@ Step 4:
 End the program 
 ## Program:
 #Program to find the rank of a matrix.
-#Developed by:junjar U
+#Developed by:Junjar U
 #RegisterNumber:24008873
 import numpy as np
 A=np.array([[1,2,3],[3,6,9]])
